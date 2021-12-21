@@ -36,3 +36,4 @@ Your task is to come up with an ERD (in `.png` format) and a DDL script in `.sql
   - Create a stored procedure to insert, update and delete user and book
   - Create a bulk delete stored procedure for book based on their author
   - Create a stored procedure to blacklist and restore user access
+TestEdit
